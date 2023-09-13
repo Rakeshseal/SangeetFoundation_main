@@ -1310,6 +1310,18 @@ nav .nav-link {
   }
 }
 @media (max-width: 990px) {
+  .pros-card-7 {
+    width: 79%;
+    height: 316px;
+    color: #ffffff;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+    gap: 4px;
+    background-image: url(../Assets/prpps-7.png);
+    background-size: cover;
+    background-position: center;
+  }
   .hero_logo{
             margin-top: 58px;
     }
