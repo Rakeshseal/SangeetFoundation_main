@@ -1310,6 +1310,9 @@ nav .nav-link {
   }
 }
 @media (max-width: 990px) {
+  .hero_logo{
+            margin-top: 58px;
+    }
   .galleryEc_sec {
     flex-direction: column;
   }
